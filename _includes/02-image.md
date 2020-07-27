@@ -1,1 +1,1 @@
-! [Picture of me with a snapchat filter that adds clown emojis on my forehead with text "I'm a clown"] (  https://raw.githubusercontent.com/ncurtis645/pictures/40ff138dd1ef6039c18a371c4925ae3896af4f87/clwn%20emoji%20sm.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
