@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+## Things I like
+* taking naps
+* ancient greek grammar
+* alphabetizing
+* cheese
